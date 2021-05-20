@@ -1,0 +1,60 @@
+/*
+Theme Name:  le pays theme
+Author: [Jonathan Caillart]
+Description: [theme created for the newspaper "le pays"]
+Version: 1.0
+*/
+.footer-color {
+    background-color: #2a303b;
+}
+
+.footer-title-color {
+    color: black;
+    font-family: "The Antiqua B",Georgia,Droid-serif,serif;
+
+}
+
+.footer-text-color {
+    color: white;
+}
+
+
+.all-color{
+    background-color: #f5f6f8;
+}
+
+.container-color {
+    background-color: white;
+}
+
+.special {
+    font-size: 20px;
+    font-family: "The Antiqua B",Georgia,Droid-serif,serif;
+}
+
+.main-title {
+    font-family: "The Antiqua B",Georgia,Droid-serif,serif;
+}
+
+
+.comment-text {
+    font-family: 'Times New Roman', Times, serif;
+}
+  
+.no_style {
+    text-decoration: none;
+    list-style: none;
+}
+
+.date_format {
+    font-size: x-small;
+}
+
+.dropdown-toggle::after {
+    display: none;
+  }
+.text-decoration-none{
+  text-decoration: none!important;
+}
+/* Font Awesome Icons have variable width. Added fixed width to fix that.*/
+.icon-width { width: 2rem;}
