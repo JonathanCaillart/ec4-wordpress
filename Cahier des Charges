@@ -1,0 +1,16 @@
+Cahier des charges
+
+L’entreprise : le pays est journal local diffusant les dernières nouvelles sportives et culturelles du pays.
+Le contexte : Actuellement le journal n’existe que sous support papier, le directeur Mr Do souhaite passer à une version numérique.
+Les objectifs attendus : 
+-	Une utilisation simple et rapide lors de l’utilisation
+-	Un style similaire à celui qu’on peut retrouver sur la version papier
+-	Un accès rapide et intuitifs aux différents tags et catégorie
+-	Une présentation des éléments de manières chronologique permettant de prioriser la une du jour
+-	Une accessibilité mobile pour les plus jeunes familiarisé avec le support
+
+Les Solutions techniques : 
+
+-	Création d’une maquette fil de fer
+-	Création d’un template wordpress
+-	Déploiement du site sur un serveur web
